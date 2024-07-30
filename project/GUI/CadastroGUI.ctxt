@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CadastroGUI
+comment0.text=\r\n\r\n\ @author\ manoela\r\n
+comment1.params=cad
+comment1.target=CadastroGUI(cadastro.Cadastro)
+comment10.params=
+comment10.target=void\ closePage()
+comment2.params=
+comment2.target=void\ inicializarComponentes()
+comment2.text=\r\n\ inicializa\ a\ forma\ do\ JFrame\r\n
+comment3.params=e
+comment3.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=evt
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ btnCadDisciplinasActionPerformed(java.awt.event.ActionEvent)
+comment7.params=evt
+comment7.target=void\ btnCadInserirActionPerformed(java.awt.event.ActionEvent)
+comment8.params=
+comment8.target=java.lang.String\ getRA()
+comment9.params=
+comment9.target=entities.Disciplina[]\ getTabelaDeDisciplinas()
+numComments=11

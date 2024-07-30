@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=IArmazenador
+comment0.text=\r\n\ IArmazenador\ interface\ para\ armazenadores.\r\n\ \r\n\ @author\ Julio\ Arakaki\ \r\n\ @version\ 12/04/2023\r\n
+comment1.params=a
+comment1.target=boolean\ inserir(entities.Aluno)
+comment2.params=ra
+comment2.target=boolean\ remover(java.lang.String)
+comment3.params=
+comment3.target=boolean\ verificarVazia()
+comment4.params=ra
+comment4.target=boolean\ buscar(java.lang.String)
+comment5.params=i
+comment5.target=entities.Aluno\ getAluno(int)
+comment6.params=
+comment6.target=int\ getQtdAlunos()
+comment7.params=
+comment7.target=void\ listar()
+comment8.params=nomeArq
+comment8.target=boolean\ ler(java.lang.String)
+comment9.params=nomeArq
+comment9.target=boolean\ armazenar(java.lang.String)
+numComments=10

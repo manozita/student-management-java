@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Entrada
+comment1.params=mensagem
+comment1.target=java.lang.String\ imprimirInput(java.lang.String)
+comment2.params=mensagem
+comment2.target=int\ imprimirPergunta(java.lang.String)
+numComments=3

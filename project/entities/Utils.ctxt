@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Utils
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Utils\ aqui.\r\n\ \r\n\ @author\ KLMP\r\n\ @version\ 14/03\r\n
+comment1.params=str
+comment1.target=int\ isNumeric(java.lang.String)
+comment1.text=\r\n\ M\u00E9todo\ isNumeric\ -\ verifica\ se\ o\ valor\ e\ numerico\r\n\r\n\ @param\ str\ para\ verificar\ se\ e\ numerico\r\n\ @return\ O\ nao\ e\ numerico\r\n\ @return\ 1\ numero\ inteiro\r\n\ @return\ 2\ numero\ decimal\r\n
+numComments=2

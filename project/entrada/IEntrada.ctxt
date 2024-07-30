@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=IEntrada
+comment0.text=\r\n\ Classe\ IEntrada\r\n\ \r\n\ Assinaturas\ de\ metodos\ para\ impressao\ de\ caixa\ simples\r\n
+comment1.params=mensagem
+comment1.target=java.lang.String\ imprimirInput(java.lang.String)
+comment2.params=mensagem
+comment2.target=int\ imprimirPergunta(java.lang.String)
+numComments=3

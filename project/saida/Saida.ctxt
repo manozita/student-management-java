@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Saida
+comment0.text=\r\n\ Classe\ Saida\r\n\ \r\n\ Impressao\ de\ mensagens\ de\ entrada\ para\ tipo\ grafico.\ Usa\ JOptionPane\r\n
+comment1.params=titulo\ mensagem
+comment1.target=void\ imprimirErro(java.lang.String,\ java.lang.String)
+comment2.params=mensagem
+comment2.target=void\ imprimirMensagem(java.lang.String)
+numComments=3

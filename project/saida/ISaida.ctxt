@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ISaida
+comment0.text=\r\n\ Classe\ ISaida\r\n\ \r\n\ Assinaturas\ de\ metodos\ para\ impressao\ de\ saida\r\n
+comment1.params=titulo\ mensagem
+comment1.target=void\ imprimirErro(java.lang.String,\ java.lang.String)
+comment2.params=mensagem
+comment2.target=void\ imprimirMensagem(java.lang.String)
+numComments=3
