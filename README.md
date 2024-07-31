@@ -38,13 +38,21 @@ In this section, we’ll cover the technical aspects of our project:
 #### Preloaded Data File:
 - The main project includes a file named "alunosCadastrados.ser" containing pre-entered student data for testing purposes.
 
-<img src="" width="700" />
-<img src="" width="700" />
-<img src="" width="700" />
-<img src="" width="700" />
-<img src="" width="700" />
-<img src="" width="700" />
-<img src="" width="700" />
+## Interface Images
+<div align="center">
+  <img src="images/1.jpg" width="250" />
+  <br> <p align="center">Main menu.</p> <br>
+  <img src="images/2.jpg" width="363" />
+  <img src="images/3.jpg" width="363" />
+  <br> <p align="center">Registering a new student and their respective subjects. Added in table.</p> <br>
+  <img src="images/4.jpg" width="300" />
+  <img src="images/5.jpg" width="406" />
+  <br> <p align="center">Options for removing a registered student and for closing without saving, respectively.</p> <br>
+  <img src="images/6.jpg" width="1000"/>
+  <br> <p align="center">Example of a list of registered students.</p> <br>
+  <img src="images/7.jpg" width="400" />
+  <br> <p align="center">The user can view specific information for each student by clicking on their name in the list.</p> <br>
+</div>
 
 ## Contributions
 Kauã Cordeiro Cavalheiro
